@@ -6,7 +6,7 @@ My name is Henry, and I am a 3rd year Computer Science student at the University
 
 - 🛠️ As part of this, I made significant contributions to open-source projects, such as [Torch-MLIR](https://github.com/llvm/torch-mlir) (supported by the LLVM Project and Google), and [PyTorch](http://github.com/pytorch/pytorch/). I primarily worked on creating the Lazy Tensor Core frontend for Torch-MLIR (documentation [here](https://github.com/llvm/torch-mlir/blob/main/docs/ltc_backend.md)).
 
-- 💻 I'm currently serving as a Board Member for [Hack the 6ix](https://hackthe6ix.com) — Toronto's largest summer hackathon. Prior to that, I coordinated **27 organizers** as Co-Chair of our 2021 event, which had **670+ attendees**. I also built robust web infrastructure to handle 4500+ users across multiple events.
+- 💻 I'm currently serving as a Board Member for [Hack the 6ix](https://hackthe6ix.com) — Toronto's largest summer hackathon. Prior to that, I coordinated **27 organizers** as Co-Chair of our 2021 event, which had **670+ attendees**. I also built robust web infrastructure to handle 4500+ users across multiple events as Web Director.
 
 - 🤖 I've also worked on a number of hardware/robotics related projects in the past (lots of Raspberry Pi + 3D printing), and enjoy creating working on IoT related projects.
 
