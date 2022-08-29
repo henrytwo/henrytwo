@@ -4,7 +4,7 @@ My name is Henry, and I am a 3rd year Computer Science student at the University
 
 - ⚙️ Previously I was at [Cerebras Systems](https://cerebras.net) as a **Machine Learning Frameworks Software Engineer Intern**, where I worked on integrating [PyTorch](http://github.com/pytorch/pytorch/) with the [Cerebras CS-2 System](https://www.cerebras.net/product-system/) — the world's fastest AI accelerator.
 
-- 🛠️ At Cerebras, I made significant contributions to open-source projects, such as [Torch-MLIR](https://github.com/llvm/torch-mlir) (supported by the LLVM Project and Google), and [PyTorch](http://github.com/pytorch/pytorch/). I primarily worked on creating the Lazy Tensor Core frontend for Torch-MLIR (read more about it [here](https://github.com/llvm/torch-mlir/blob/main/docs/ltc_backend.md)).
+- 🛠️ At Cerebras, I made significant contributions to open-source projects, such as [Torch-MLIR](https://github.com/llvm/torch-mlir) (supported by the LLVM Project and Google), and [PyTorch](http://github.com/pytorch/pytorch/). I primarily worked on creating the Lazy Tensor Core frontend for Torch-MLIR (read more about it [here](https://github.com/llvm/torch-mlir/blob/main/docs/ltc_backend.md)), and integrating it with our highly specialized compiler and execution pipeline.
 
 - 💻 I'm currently serving as a Board Member for [Hack the 6ix](https://hackthe6ix.com) — Toronto's largest summer hackathon. Prior to that, I coordinated **27 organizers** as Co-Chair of our 2021 event, which had **670+ attendees**. I also built robust web infrastructure to handle 4500+ users across multiple events as Web Director.
 
