@@ -16,7 +16,7 @@ To connect with me, checkout these resources:
 - Website: [https://henrytu.me](https://henrytu.me)
 - Resume: [https://henrytu.me/resume](https://henrytu.me/resume)
 - LinkedIn: [https://www.linkedin.com/in/henry-tu](https://www.linkedin.com/in/henry-tu)
-- Email: [hello@henrytu.me](hello@henrytu.me)
+- Email: [hello@henrytu.me](mailto:hello@henrytu.me)
 
 ![](https://komarev.com/ghpvc/?username=henrytwo)
 
