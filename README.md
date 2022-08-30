@@ -1,4 +1,4 @@
-### **📢 I'm seeking internship opportunities for Summer 2023!**
+### **📢 I'm seeking SWE internship opportunities for Summer 2023!**
 
 <hr>
 
