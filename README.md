@@ -1,7 +1,3 @@
-### **📢 I'm seeking SWE internship opportunities for Summer 2023!**
-
-<hr>
-
 ### Hi there 👋
 
 My name is Henry, and I am a 3rd year Computer Science student at the University of Toronto. 
