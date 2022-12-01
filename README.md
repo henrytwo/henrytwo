@@ -1,3 +1,7 @@
+### **📢 I'm seeking SWE internship opportunities for Fall 2023!**
+
+<hr>
+
 ### Hi there 👋
 
 My name is Henry, and I am a 3rd year Computer Science student at the University of Toronto. 
@@ -10,7 +14,7 @@ My name is Henry, and I am a 3rd year Computer Science student at the University
 
 - 🤖 I've also worked on a number of hardware/robotics related projects in the past (lots of Raspberry Pi + 3D printing), and enjoy creating working on IoT related projects.
 
-- 👔 I'm looking for SWE internship opportunities for **Summer 2023**! Please contact me if you would like to have a chat 🙂.
+- 👔 I'm looking for SWE internship opportunities for **Fall 2023**! Please contact me if you would like to have a chat 🙂.
 
 To connect with me, checkout these resources:
 - Website: [https://henrytu.me](https://henrytu.me)
