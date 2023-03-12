@@ -2,7 +2,7 @@
 
 My name is Henry, and I am a 3rd year Computer Science student at the University of Toronto.
 
-- 💼 I'm an incoming SDE Intern @ Amazon for Summer 2023 in Vancouver, BC!
+- 💼 I'm an incoming SDE Intern @ [Amazon](https://amazon.com) for Summer 2023 in Vancouver, BC!
 
 - ⚙️ Previously I was at [Cerebras Systems](https://cerebras.net) as a **Machine Learning Frameworks Software Engineer Intern**, where I worked on integrating [PyTorch](http://github.com/pytorch/pytorch/) with the [Cerebras CS-2 System](https://www.cerebras.net/product-system/) — the world's fastest AI accelerator.
 
