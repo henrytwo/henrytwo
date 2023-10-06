@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-My name is Henry, and I am a 3rd year Computer Science student at the University of Toronto.
+My name is Henry, and I am a 4th year Computer Science student at the University of Toronto.
 
-- 💼 I'm an incoming SDE Intern @ [Amazon](https://amazon.com) for Summer 2023 in Vancouver, BC!
+- 💼 I've worked on highly impactful projects at [Amazon](https://amazon.com) and [Cerebras Systems](https://cerebras.net).
 
-- ⚙️ Previously I was at [Cerebras Systems](https://cerebras.net) as a **Machine Learning Frameworks Software Engineer Intern**, where I worked on integrating [PyTorch](http://github.com/pytorch/pytorch/) with the [Cerebras CS-2 System](https://www.cerebras.net/product-system/) — the world's fastest AI accelerator.
+- 🛠️ At Cerebras, I made significant contributions to open-source projects, such as [Torch-MLIR](https://github.com/llvm/torch-mlir) (supported by the LLVM Project and Google), and [PyTorch](http://github.com/pytorch/pytorch/).
 
-- 🛠️ At Cerebras, I made significant contributions to open-source projects, such as [Torch-MLIR](https://github.com/llvm/torch-mlir) (supported by the LLVM Project and Google), and [PyTorch](http://github.com/pytorch/pytorch/). I primarily worked on creating the Lazy Tensor Core frontend for Torch-MLIR (read more about it [here](https://github.com/llvm/torch-mlir/blob/main/docs/ltc_backend.md)), and integrating it with our highly specialized compiler and execution pipeline.
-
-- 💻 I'm currently serving as a Board Member for [Hack the 6ix](https://hackthe6ix.com) — Toronto's largest summer hackathon. Prior to that, I was Co-Chair for our 2021 event, where I coordinated **27 organizers** to host **670+ attendees** from around the world. As Web Director, I also built robust web software and infrastructure to handle 4500+ users across multiple events.
+- 💻 I served as a Board Member for [Hack the 6ix](https://hackthe6ix.com) — Toronto's largest summer hackathon. Prior to that, I was Co-Chair for our 2021 event, where I coordinated **27 organizers** to host **670+ attendees** from around the world.
 
 - 🤖 I've also worked on a number of hardware/robotics related projects in the past (lots of Raspberry Pi + 3D printing), and enjoy creating working on IoT related projects.
 
