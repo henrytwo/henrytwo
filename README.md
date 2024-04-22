@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Henry, and I'm a Software Engineer working on integrating ML Frameworks with the world's fastest AI system.
+My name is Henry, and I'm a Software Engineer with experience in Machine Learning, Full Stack Development, Hardware Integration, Networking, 3D Printing, LLVM Compilers, Linux System Administration, and AWS.
+
+Currently working on integrating ML Frameworks with the world's fastest AI accelerator @ Cerebras Systems.
 
 - 🎓 I studied Computer Science @ University of Toronto
 
@@ -11,8 +13,6 @@ My name is Henry, and I'm a Software Engineer working on integrating ML Framewor
 - 💻 I served as a Board Member for [Hack the 6ix](https://hackthe6ix.com) — Toronto's largest summer hackathon. Prior to that, I was Co-Chair for our 2021 event, where I coordinated **27 organizers** to host **670+ attendees** from around the world.
 
 - 🤖 I've also worked on a number of hardware/robotics related projects in the past (lots of Raspberry Pi + 3D printing), and enjoy creating working on IoT related projects.
-
-- 🤓 I have experience in full stack development and can do end-to-end integration with hardware/IoT/ML/other cool stuff too!
 
 To connect with me, checkout these resources:
 - Website: [https://henrytu.me](https://henrytu.me)
