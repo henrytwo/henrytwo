@@ -2,7 +2,7 @@
 
 My name is Henry, and I'm a Software Engineer with experience in Machine Learning, Full Stack Development, Hardware Integration, Networking, 3D Printing, LLVM Compilers, Linux System Administration, and AWS.
 
-- 👨‍💻 Working on getting ML Frameworks to with the world's fastest AI accelerator @ [Cerebras Systems](https://cerebras.net).
+- 👨‍💻 Working on getting ML Frameworks integrated with the world's fastest AI accelerator @ [Cerebras Systems](https://cerebras.net).
 
 - 🎓 I studied Computer Science @ University of Toronto.
 
