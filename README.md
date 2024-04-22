@@ -4,7 +4,7 @@ My name is Henry, and I'm a Software Engineer with experience in Machine Learnin
 
 - 👨‍💻 Working on getting ML Frameworks to with the world's fastest AI accelerator @ [Cerebras Systems](https://cerebras.net).
 
-- 🎓 I studied Computer Science @ University of Toronto
+- 🎓 I studied Computer Science @ University of Toronto.
 
 - 💼 I've worked on highly impactful projects at [Amazon](https://amazon.com) and [Cerebras Systems](https://cerebras.net).
 
