@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Henry, and I'm a Software Engineer working on integrating ML Frameworks with the world's fastest AI accelerator.
+My name is Henry, and I'm a Software Engineer working on integrating ML Frameworks with the world's fastest AI system.
 
 - 🎓 I studied Computer Science @ University of Toronto
 
