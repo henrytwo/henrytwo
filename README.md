@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Henry, and I am a 4th year Computer Science student at the University of Toronto.
+My name is Henry, and I'm a Software Engineer working on ML Frameworks.
+
+- 🎓 I studied Computer Science @ University of Toronto
 
 - 💼 I've worked on highly impactful projects at [Amazon](https://amazon.com) and [Cerebras Systems](https://cerebras.net).
 
@@ -9,6 +11,8 @@ My name is Henry, and I am a 4th year Computer Science student at the University
 - 💻 I served as a Board Member for [Hack the 6ix](https://hackthe6ix.com) — Toronto's largest summer hackathon. Prior to that, I was Co-Chair for our 2021 event, where I coordinated **27 organizers** to host **670+ attendees** from around the world.
 
 - 🤖 I've also worked on a number of hardware/robotics related projects in the past (lots of Raspberry Pi + 3D printing), and enjoy creating working on IoT related projects.
+
+- 🤓 I have experience in full stack development and can do end-to-end integration with hardware/IoT/ML/other cool stuff too!
 
 To connect with me, checkout these resources:
 - Website: [https://henrytu.me](https://henrytu.me)
