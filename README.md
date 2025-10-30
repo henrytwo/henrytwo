@@ -16,7 +16,7 @@ My name is Henry, and I'm a Software Engineer with experience in Machine Learnin
 - 🤖 I've also worked on a number of hardware/robotics related projects in the past (lots of Raspberry Pi + 3D printing), and enjoy creating working on IoT related projects.
 -->
 
-I work on the world's fastest inference service @ Cerebras Systems ✨
+I work on the world's fastest inference @ Cerebras Systems ✨
 
 To connect with me, checkout these resources:
 - Website: [https://henrytu.me](https://henrytu.me)
